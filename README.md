@@ -1,2 +1,3 @@
 # dakinside
-Thanks for join
+Thanks for join readme-ediets
+
